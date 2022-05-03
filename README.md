@@ -74,28 +74,28 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-## Initial DataFrame (Placement_Data.csv):
+### Initial DataFrame (Placement_Data.csv):
 ![output](o1.png)
-## Dropping "Salary" column from DataFrame:
+### Dropping "Salary" column from DataFrame:
 ![output](o7.png)
-## Sum of null data present in each column:
+### Sum of null data present in each column:
 ![output](o2.png)
-## Sum of Duplicate data present in each column:
+### Sum of Duplicate data present in each column:
 ![output](o8.png)
-## Applying LabelEncoder:
+### Applying LabelEncoder:
 ![output](o9.png)
-## After applying LabelEncoder for each Label column:
+### After applying LabelEncoder for each Label column:
 ![output](o10.png)
-## Accuracy:
+### Accuracy:
 ![output](o3.png)
-## Confusion Matrix:
+### Confusion Matrix:
 ![output](o4.png)
-## Class Report:
+### Class Report:
 ![output](o5.png)
-## Prediction:
-### Y Predict:
+### Prediction:
+#### Y Predict:
 ![output](o11.png)
-### lr Predict:
+#### lr Predict:
 ![output](o6.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
